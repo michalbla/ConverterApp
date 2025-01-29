@@ -65,8 +65,6 @@ public class FIleToConvertClass extends TypeFileClass{
         this.outputTypeFile = typeFile;
     }
 
-
-
     public void convertAndSave(File file) {
 
         try {
