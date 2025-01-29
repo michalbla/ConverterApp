@@ -23,7 +23,6 @@ public class ConverterGuiSwingMockitoTest {
                 getFilename()).
                 thenReturn("MockedFile");
 
-
         // Tworzenie instancji GUI
         ConverterGuiSwing gui = new ConverterGuiSwing();
 
